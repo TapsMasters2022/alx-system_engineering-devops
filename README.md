@@ -1,1 +1,1 @@
-1-listit
+Display current directory contents
